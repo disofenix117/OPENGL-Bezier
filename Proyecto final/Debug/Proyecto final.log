@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Diego Suarez\U.M.N.G\Computacion Grafica\2.0\3 corte\Proyecto final\Proyecto final\Source.cpp(655,6): warning C4101: 'i': variable local sin referencia
+F:\Diego Suarez\U.M.N.G\Computacion Grafica\2.0\3 corte\Proyecto final\Proyecto final\Source.cpp(1067,10): warning C4552: "!=": el resultado de la expresión no se usa
+  Proyecto final.vcxproj -> F:\Diego Suarez\U.M.N.G\Computacion Grafica\2.0\3 corte\Proyecto final\Debug\Proyecto final.exe
